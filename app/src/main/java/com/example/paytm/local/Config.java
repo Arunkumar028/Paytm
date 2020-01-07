@@ -10,3 +10,4 @@ public class Config {
     public static final String CALLBACK_URL = "https://pguat.paytm.com/paytmchecksum/paytmCallback.jsp";
 
 }
+
